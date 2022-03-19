@@ -40,6 +40,7 @@ PostgreSQL
   ##
 
 <div align="center"> 
-  <a href = "mailto:jefframosbr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jefferson-leandro-ramos-de-oliveira-b6283aa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:jefframosbr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jefferson-leandro-ramos-de-oliveira-b6283aa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "https://wasabibr.github.io"><img src="https://img.shields.io/badge/-github.io-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
