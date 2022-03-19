@@ -16,9 +16,14 @@ PostgreSQL
 - 🌱 Tenho estudado além de PHP e JS, JAVA.
 -->
 
-## Oi, me chamo Jefferson Oliveira, tudo bem?
-<br>
+## Oi, me chamo Jefferson Oliveira, tudo bem? 
 
+<div>
+  <a href="https://github.com/wasabibr">
+  <img src="https://user-images.githubusercontent.com/34520708/159102373-102de562-6881-4078-b25a-de88c47409f5.png" width="30" height="28">
+  <img src="https://user-images.githubusercontent.com/34520708/159102695-83f6a522-be03-4000-a441-23895093a520.png" width="30" height="28">
+</div>
+  
 <div align="center">
   <a href="https://github.com/wasabibr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wasabibr&show_icons=true&include_all_commits=true&count_private=true"/>
