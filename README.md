@@ -63,7 +63,8 @@ Here are some ideas to get you started:
           nomeCompleto: 'Jefferson Leandro Ramos de Oliveira',
           aniversario: '1978-02-10',
           pronomes: 'ele' | 'dele',
-          interesses: ['música', 'literatura clássica', 'literatura syfy', 'literatura fantástica medieval' , 'estudo de linguagens', 'cinema' , 'XBOX'],
+          interesses: ['música', 'literatura' , 'estudo de linguagens', 'cinema' , 'XBOX'],
+          hobbyAtual: ['literatura clássica', 'literatura syfy', 'literatura fantástica medieval'],
       },
       profissional: {
           localDeTrabalho: 'Instituto Metrópole Digital (IMD/UFRN)',
