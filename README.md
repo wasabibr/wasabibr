@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-PostgreSQL
 - 🔭 No momento estou trabalhando com PHP, HTML, CSS e JS.
 - 🌱 Tenho estudado além de PHP e JS, JAVA.
 -->
@@ -29,6 +28,48 @@ PostgreSQL
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wasabibr&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasabibr&layout=compact&langs_count=7"/>
 </div>
+  
+<details>
+  <summary> More about me</summary>
+  <div align="left">
+
+  ``` js
+  const wasabibr = {
+      pessoal: {
+          nomeCompleto: 'Jefferson Leandro Ramos de Oliveira',
+          aniversario: '1978-02-10',
+          pronomes: 'ele' | 'dele',
+          interesses: ['música', 'literatura clássica', 'literatura syfy', 'literatura fantástica medieval' , 'estudo de linguagens', 'cinema' , 'XBOX'],
+      },
+      profissional: {
+          localDeTrabalho: 'Instituto Metrópole Digital (IMD/UFRN)',
+          cargo: 'Desenvolvedor Web Front End Jr',
+          descricaoDeAtividades: 'Diagramação web do material didática digital dos Cursos Técnicos do IMD',
+          tecnologiasEnvolvidas: ['HTML5' , 'JS' , 'CSS3' , 'PHP7' , 'PostgreSQL'],
+      },
+      tecnico: {
+          tecnologias: {
+              frontEnd: {
+                  Javascript: ['Vanilla JS'],
+                  HTML: ['HTML5'],
+                  CSS: ['Bootstrap'],
+              },
+              backEnd: {
+                  Javascript: ['Vanilla JS'],
+                  DB: ['SQL SERVER' , 'PostgreSQL' , ' MySQL'],
+                  PHP: ['PHP7'],
+              },
+            emEstudo: {
+                  Java: ['Java8' , 'Spring'],
+                  Javascript: ['React' , 'Angular'],
+                  PHP: ['Laravel'],
+              },
+          },
+      }
+  }
+  ```
+  </div>
+</details>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
