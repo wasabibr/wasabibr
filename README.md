@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🌱 Tenho estudado além de PHP e JS, JAVA.
 -->
 
-## Oi, me chamo Jefferson Oliveira, tudo bem? 
+## Oi, me chamo Jefferson Oliveira / Salut, je m'appelle OLIVEIRA Jefferson  
 
 <div>
   <a href="https://github.com/wasabibr">
