@@ -31,7 +31,9 @@ Here are some ideas to get you started:
   
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <!--
   <img align="center" alt="LARAVEL" height="30" width="40" src='https://icongr.am/devicon/laravel-plain.svg?size=1008&color=ea3434'>
+  -->
   <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <!--
   <img align="center" alt="SPRING" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
