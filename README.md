@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <!--
-  <img align="center" alt="LARAVEL" height="30" width="40" src='https://icongr.am/devicon/laravel-plain.svg?size=1008&color=ea3434'>
+  <img align="center" alt="LARAVEL" height="30" width="40" src='https://icongr.am/devicon/laravel-plain-wordmark.svg?size=128&color=d33131'>
+  <img align="center" alt="CAKE" height="30" width="40" src=''>
   -->
   <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <!--
@@ -55,6 +56,11 @@ Here are some ideas to get you started:
   <img align="center" alt="GIT" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg'>
   <img align="center" alt="NODE" height="30" width="40" src="https://icongr.am/devicon/gitlab-original.svg?size=128&color=000000">
   <img align="center" alt="MOODLE" height="30" width="40" src='https://icongr.am/devicon/moodle-original.svg?size=128&color=currentColor'>
+  <img align="center" alt="UBUNTU" height="30" width="40" src='https://icongr.am/devicon/ubuntu-plain.svg?size=128&color=f58300'>
+  <img align="center" alt="VSCODE" height="30" width="40" src='https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=d33131'>
+  <!--
+  <img align="center" alt="" height="30" width="40" src=''>
+  -->
 </div>
   
   ##
@@ -79,12 +85,12 @@ Here are some ideas to get you started:
           nomeCompleto: 'Jefferson Leandro Ramos de Oliveira',
           aniversario: '1978-02-10',
           pronomes: 'ele' | 'dele',
-          interesses: ['música', 'literatura' , 'estudo de linguagens', 'cinema' , 'XBOX'],
-          hobbyAtual: ['literatura clássica', 'literatura syfy', 'literatura fantástica medieval'],
+          interesses: ['música' , 'literatura' , 'estudo de linguagens' , 'cinema' , 'XBOX'],
+          hobbyAtual: ['literatura clássica' , 'literatura syfy' , 'literatura fantástica medieval'],
       },
       profissional: {
           localDeTrabalho: 'Instituto Metrópole Digital (IMD/UFRN)',
-          cargo: 'Desenvolvedor Web Front End Jr',
+          cargoAtual: 'Desenvolvedor Web Front End Jr',
           descricaoDeAtividades: 'Diagramação web do material didática digital dos Cursos Técnicos do IMD',
           tecnologiasEnvolvidas: ['HTML5' , 'JS' , 'CSS3' , 'PHP7' , 'PostgreSQL'],
       },
