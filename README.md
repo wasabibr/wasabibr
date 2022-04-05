@@ -58,6 +58,7 @@ Here are some ideas to get you started:
   <img align="center" alt="MOODLE" height="30" width="40" src='https://icongr.am/devicon/moodle-original.svg?size=128&color=currentColor'>
   <img align="center" alt="UBUNTU" height="30" width="40" src='https://icongr.am/devicon/ubuntu-plain.svg?size=128&color=f58300'>
   <img align="center" alt="VSCODE" height="30" width="40" src='https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=d33131'>
+  <img align="center" alt="TRELLO" height="30" width="40" src='https://icongr.am/devicon/trello-plain-wordmark.svg?size=128&color=006ce0'>
   <!--
   <img align="center" alt="" height="30" width="40" src=''>
   -->
