@@ -107,7 +107,7 @@ Here are some ideas to get you started:
                   DB: ['SQL SERVER' , 'PostgreSQL' , ' MySQL'],
                   PHP: ['PHP7'],
               },
-            emEstudo: {
+              emEstudo: {
                   Java: ['Java8' , 'Spring'],
                   Javascript: ['React' , 'Angular'],
                   PHP: ['Laravel'],
