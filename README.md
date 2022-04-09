@@ -34,8 +34,8 @@ Here are some ideas to get you started:
   <!--
   <img align="center" alt="LARAVEL" height="30" width="40" src='https://icongr.am/devicon/laravel-plain-wordmark.svg?size=128&color=d33131'>
   <img align="center" alt="CAKE" height="30" width="40" src=''>
-  -->
   <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  -->
   <!--
   <img align="center" alt="SPRING" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   -->
