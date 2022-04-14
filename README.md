@@ -87,30 +87,30 @@ Here are some ideas to get you started:
           aniversario: '1978-02-10',
           pronomes: 'ele' | 'dele',
           interesses: ['música' , 'literatura' , 'estudo de linguagens' , 'cinema' , 'XBOX'],
-          hobbyAtual: ['literatura clássica' , 'literatura syfy' , 'literatura fantástica medieval'],
+          hobbyAtual: ['literatura clássica' , 'literatura syfy' , 'literatura fantástica medieval']
       },
       profissional: {
           localDeTrabalho: 'Instituto Metrópole Digital (IMD/UFRN)',
           cargoAtual: 'Desenvolvedor Web Front End Jr',
           descricaoDeAtividades: 'Diagramação web do material didática digital dos Cursos Técnicos do IMD',
-          tecnologiasEnvolvidas: ['HTML5' , 'JS' , 'CSS3' , 'PHP7' , 'PostgreSQL'],
+          tecnologiasEnvolvidas: ['HTML5' , 'JS' , 'CSS3' , 'PHP7' , 'PostgreSQL']
       },
       tecnico: {
           tecnologias: {
               frontEnd: {
                   Javascript: ['Vanilla JS'],
                   HTML: ['HTML5'],
-                  CSS: ['Bootstrap'],
+                  CSS: ['Bootstrap']
               },
               backEnd: {
                   Javascript: ['Vanilla JS'],
                   DB: ['SQL SERVER' , 'PostgreSQL' , ' MySQL'],
-                  PHP: ['PHP7'],
+                  PHP: ['PHP7']
               },
               emEstudo: {
                   Java: ['Java8' , 'Spring'],
                   Javascript: ['React' , 'Angular'],
-                  PHP: ['Laravel'],
+                  PHP: ['PHP7' , 'Laravel']
               },
           },
       }
