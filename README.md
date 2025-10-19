@@ -87,6 +87,7 @@ Here are some ideas to get you started:
           aniversario: '1978-02-10',
           pronomes: 'ele' | 'dele',
           interesses: ['música' , 'literatura' , 'estudo de linguagens' , 'cinema' , 'XBOX'],
+          diferenciais: ['fluência em língua francesa'],
           hobbyAtual: ['literatura clássica' , 'literatura syfy' , 'literatura fantástica medieval']
       },
       profissional: {
@@ -100,17 +101,22 @@ Here are some ideas to get you started:
               frontEnd: {
                   Javascript: ['Vanilla JS'],
                   HTML: ['HTML5'],
-                  CSS: ['Bootstrap']
+                  CSS: ['CSS3'],
+                  Frameworks: ['Bootstrap']
               },
               backEnd: {
-                  Javascript: ['Vanilla JS'],
+                  Javascript: ['Vanilla JS' , 'React' , 'Angular'],
                   DB: ['SQL SERVER' , 'PostgreSQL' , ' MySQL'],
                   PHP: ['PHP7']
               },
+              AI: {
+                  Generative AI: ['ChatGPT' , 'Gimini' , 'Copilot'],
+                  Prompt: ['Prompt engineering' , ''],
+                  AI automation: ['N8N']
+              },
               emEstudo: {
-                  Java: ['Java8' , 'Spring'],
-                  Javascript: ['React' , 'Angular'],
-                  PHP: ['PHP7' , 'Laravel']
+                  IA: ['-' , '-'],
+                  -: ['-' , '-']
               },
           },
       }
